@@ -1,0 +1,16 @@
+Folder PATH listing for volume Windows
+Volume serial number is 64B7-10BF
+C:.
+    2_Cust_Analysis_integrated.py
+    app_integrated.py
+    folder_structure.txt
+    ML1_KPMG.ipynb
+    ML_MODEL_STREAMLIT CODE.ipynb
+    NLP_Sentiment_Analysis.ipynb
+    requirements.txt
+    review.csv
+    urbankart_best_regression_model.joblib
+    UrbanKart_Customer_Analytics_Master.csv
+    
+No subfolders exist 
+
